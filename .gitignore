@@ -1,0 +1,4 @@
+secret.txt
+.DS_Store
+# my first git ignore file
+*.c
